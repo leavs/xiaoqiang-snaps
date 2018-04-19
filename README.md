@@ -1,2 +1,4 @@
-# xiaoqiang-snaps
-snap applications build by xiaoqiang
+# hi snaps
+
+# How to Install
+  ./configure && make && make install
